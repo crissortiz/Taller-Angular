@@ -1,4 +1,4 @@
-var serie = /** @class */ (function () {
+var Serie = /** @class */ (function () {
     function Serie(id, name, channel, seasons, description, link, image) {
         this.id = id;
         this.name = name;
